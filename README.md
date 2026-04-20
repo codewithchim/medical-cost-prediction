@@ -94,7 +94,11 @@ Deploy as an interactive dashboard (e.g. Streamlit)
 Tools & Technologies
 
 Python
+
 Pandas
+
 NumPy
+
 Matplotlib & Seaborn
+
 StatsModels
